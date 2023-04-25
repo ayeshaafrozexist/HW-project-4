@@ -1,0 +1,62 @@
+h1{
+		color: green;
+		font-style: italic;
+		font-size:50px;
+}
+.para1{
+	color: blue;
+	font-family: cursive;
+	font-size: 25px;
+}
+.image{
+	width: 400px;
+	height: 250px;
+}
+.para2{
+	color: green;
+	font-family: cursive;
+	font-size: 25px;
+}
+.para3{
+	color: blue;
+	font-family: cursive;
+	font-size: 25px;
+}
+.h2{
+	font-family: verdana;
+	font-style: italic;
+	font-size: 25px;
+	color: green;
+}
+
+.para5{
+	font-family: verdana;
+	font-style: italic;
+	font-size: 25px;
+	color: green;
+}
+
+.box{
+	width: 150px;
+	height: 100px;
+	border-color: #000000;
+}
+
+
+.para6{
+	font-size: 50px;
+	font-style: italic;
+    color:green;
+}
+
+.para7{
+	font-size: 50px;
+	font-style: italic;s
+    color:green;
+}
+.para8{
+	font-size: 30px;
+	font-style: italic;
+    color: #243546;
+}
+
